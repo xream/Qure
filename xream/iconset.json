@@ -1,0 +1,34 @@
+{
+  "name": "xream Qure Additions",
+  "description": "xream 基于 Qure 风格新增的图标集",
+  "icons": [
+    {
+      "name": "Back_Proxy",
+      "url": "https://raw.githubusercontent.com/xream/Qure/master/xream/Back_Proxy.png"
+    },
+    {
+      "name": "Baidu",
+      "url": "https://raw.githubusercontent.com/xream/Qure/master/xream/Baidu.png"
+    },
+    {
+      "name": "BaiduCloud",
+      "url": "https://raw.githubusercontent.com/xream/Qure/master/xream/BaiduCloud.png"
+    },
+    {
+      "name": "DNS",
+      "url": "https://raw.githubusercontent.com/xream/Qure/master/xream/DNS.png"
+    },
+    {
+      "name": "Domestic_Proxy",
+      "url": "https://raw.githubusercontent.com/xream/Qure/master/xream/Domestic_Proxy.png"
+    },
+    {
+      "name": "IP",
+      "url": "https://raw.githubusercontent.com/xream/Qure/master/xream/IP.png"
+    },
+    {
+      "name": "ULB_Proxy",
+      "url": "https://raw.githubusercontent.com/xream/Qure/master/xream/ULB_Proxy.png"
+    }
+  ]
+}
